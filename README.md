@@ -1,1 +1,1 @@
-"# HandlingStashedAndLostChanges" 
+# HandlingStashedAndLostChanges
